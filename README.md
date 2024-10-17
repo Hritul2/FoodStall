@@ -6,7 +6,7 @@ FoodStall is a food ordering platform that utilizes the Swiggy API, a well-known
 
 # Showcase!
 
-https://food-stall-five.vercel.app
+https://swiggy.hritul.com
 
 ## Technology Stack:
 
